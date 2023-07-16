@@ -399,10 +399,8 @@ addtoany:
 
 # Comments System
 # --------------------------------------
-#双栏美化
-butterfly_article_double_row:
-  enable: true
-  
+
+
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
