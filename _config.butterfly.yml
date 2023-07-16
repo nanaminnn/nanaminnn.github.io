@@ -34,7 +34,7 @@ code_word_wrap: false
 #   icon: link || the description || color
 social:
    fab fa-github: https://github.com/nanaminnn/ || Github || '#24292e'
-   fa-brands fa-bilibili fa-beat: https://space.bilibili.com/7226 || bilibili || '#24292e' 
+   fab fa-bilibili: https://space.bilibili.com/7226 || bilibili || '#24292e'  
    # fas fa-envelope: 616729613@qq.com || Email || '#4a7dbe'
 
 # Image (圖片設置)
