@@ -13,9 +13,9 @@ menu:
    时间轴: /archives/ || fas fa-archive
    标签: /tags/ || fas fa-tags
    分类: /categories/ || fas fa-folder-open
-   列表||fas fa-list:
-     Music: /music/ || fas fa-music
-     Movie: /movies/ || fas fa-video
+   # 列表||fas fa-list:
+    # Music: /music/ || fas fa-music
+    #  Movie: /movies/ || fas fa-video
    友链: /link/ || fas fa-link
    关于: /about/ || fas fa-heart
 
@@ -69,7 +69,7 @@ tag_img:
 tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
-# note: category page, not categories page (子分類頁面的 top_img)
+ note: category page, not categories page (子分類頁面的 top_img)
 category_img:
 
 # The banner image of category page
