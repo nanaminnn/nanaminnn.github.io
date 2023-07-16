@@ -99,7 +99,7 @@ error_img:
 error_404:
   enable: false
   subtitle: 'Page Not Found'
-  background: https://i0.hdslb.com/bfs/article/72ff4268aa9e607a98bae426935e44d5731bef88.jpg # https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
+  background: # https://i0.hdslb.com/bfs/article/72ff4268aa9e607a98bae426935e44d5731bef88.jpg # https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
 
 post_meta:
   page: # Home Page
@@ -635,13 +635,13 @@ index_top_img_height:
 # The user interface setting of category and tag page (category和tag頁的UI設置)
 # index - same as Homepage UI (index 值代表 UI將與首頁的UI一樣)
 # default - same as archives UI 默認跟archives頁面UI一樣
-category_ui: index # 留空或 index
-tag_ui: index # 留空或 index
+category_ui:  # 留空或 index
+tag_ui:  # 留空或 index
 
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://i0.hdslb.com/bfs/article/72ff4268aa9e607a98bae426935e44d5731bef88.jpg)
+background: url(/png/nanami.png)
 
 # Footer Background
 footer_bg: 
