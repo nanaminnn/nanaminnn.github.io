@@ -99,7 +99,7 @@ error_img:
 error_404:
   enable: false
   subtitle: 'Page Not Found'
-  background:  # https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
+  background: https://i0.hdslb.com/bfs/article/72ff4268aa9e607a98bae426935e44d5731bef88.jpg # https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
 
 post_meta:
   page: # Home Page
@@ -641,7 +641,7 @@ tag_ui: index # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://i0.hdslb.com/bfs/article/72ff4268aa9e607a98bae426935e44d5731bef88.jpg)
+background: 
 
 # Footer Background
 footer_bg: 
