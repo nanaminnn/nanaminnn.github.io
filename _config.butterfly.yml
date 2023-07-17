@@ -139,8 +139,8 @@ photofigcaption: false
 # copyright: Add the copyright information after copied content (複製的內容後面加上版權信息)
 copy:
   enable: true
-  copyright:
-    enable: false
+  copyright: 转载请注明本博客地址~
+    enable: true
     limit_count: 50
 
 # Post
