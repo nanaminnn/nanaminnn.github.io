@@ -20,7 +20,7 @@ menu:
    关于: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
-# --------------------------------------
+# ---------------------------------------
 
 highlight_theme: light #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
