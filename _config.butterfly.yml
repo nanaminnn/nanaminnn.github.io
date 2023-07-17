@@ -641,10 +641,10 @@ tag_ui:  # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: 
+background: url(https://www.sinaimg.cn/dy/slidenews/4_img/2016_42/704_2044396_730499.jpg)
 
 # Footer Background
-footer_bg: 
+footer_bg: transparent
 
 # Add mask to header or footer (为 header 或 footer 添加黑色半透遮罩)
 mask:
