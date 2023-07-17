@@ -55,7 +55,7 @@ disable_top_img: false
 index_img: https://www.sinaimg.cn/dy/slidenews/4_img/2016_42/704_2044396_730499.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: 
+default_top_img: transparent
 
 # The banner image of archive page
 archive_img:
