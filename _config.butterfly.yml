@@ -235,7 +235,7 @@ aside:
       link: https://github.com/nanaminnn
   card_announcement:
     enable: true
-    content: 欢迎来到我的博客！
+    content: 这是一个关于前乃木坂46成员橋本奈々未的博客
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -641,7 +641,7 @@ tag_ui:  # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://img2.doubanio.com/view/photo/l/public/p2431988341.webp) # https://imgs.aixifan.com/newUpload/2196197_19bd8e9820594b11bfb4a10b407e8b4f.jpg
+background: url(https://img2.doubanio.com/view/photo/raw/public/p2424819003.jpg) # https://imgs.aixifan.com/newUpload/2196197_19bd8e9820594b11bfb4a10b407e8b4f.jpg
 
 # Footer Background
 footer_bg: transparent
