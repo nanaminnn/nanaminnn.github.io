@@ -641,7 +641,7 @@ tag_ui:  # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: '#49B202'
+background: url(https://www.sinaimg.cn/dy/slidenews/4_img/2016_42/704_2044396_730499.jpg)
 
 # Footer Background
 footer_bg: 
