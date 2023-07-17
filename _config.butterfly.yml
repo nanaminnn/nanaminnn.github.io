@@ -55,7 +55,7 @@ disable_top_img: false
 index_img: 
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: transparent
+default_top_img: 
 
 # The banner image of archive page
 archive_img:
@@ -644,7 +644,7 @@ tag_ui:  # 留空或 index
 background: url(https://www.sinaimg.cn/dy/slidenews/4_img/2016_42/704_2044396_730499.jpg)
 
 # Footer Background
-footer_bg: transparent
+footer_bg: 
 
 # Add mask to header or footer (为 header 或 footer 添加黑色半透遮罩)
 mask:
