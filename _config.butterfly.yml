@@ -209,7 +209,8 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text: <div>
+  custom_text: 
+  <div>
     <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral">本网站由
         <img src="/images/又拍云_logo2.png" width="45px" />提供CDN加速/云存储服务</a>
  </div>
