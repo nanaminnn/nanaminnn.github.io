@@ -484,7 +484,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: http://124.221.18.194:11451
+  envId: https://twikoo-api-ebon-nine.vercel.app/
   region: ap-shanghai
   visitor: false
   option:
