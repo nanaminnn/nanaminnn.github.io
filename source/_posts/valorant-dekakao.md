@@ -168,3 +168,7 @@ emmm..
 ```
 ===
                                                            
+                                                           copyright_author: 橋本奈々未の桥推
+copyright_author_href: https://nanamin.icu
+copyright_url: https://nanamin.icu
+copyright_info: 此文章版权归橋本奈々未の桥推所有，如有转载，请注明来自原作者
