@@ -405,7 +405,7 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo
-  use: Livere
+  use: Twikoo
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -431,7 +431,7 @@ disqusjs:
 # livere (來必力)
 # https://www.livere.com/
 livere:
-  uid: MTAyMC81ODcyNS8zNTE4Nw==
+  uid: 
 
 # gitalk
 # https://github.com/gitalk/gitalk
@@ -484,7 +484,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId:
+  envId: http://124.221.18.194:11451
   region:
   visitor: false
   option:
