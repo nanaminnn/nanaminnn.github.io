@@ -14,6 +14,7 @@ tags: #标签
 ![图片](/images/qq.png "点击")
 
                                                            日常会话类
+note [class]
 よろしく(请多指教)
 ![图片](/images/2022-09-28_00h10_46.png "日常会话类")
 ```
@@ -168,7 +169,3 @@ emmm..
 ```
 ===
                                                            
-                                                           copyright_author: 橋本奈々未の桥推
-copyright_author_href: https://nanamin.icu
-copyright_url: https://nanamin.icu
-copyright_info: 此文章版权归橋本奈々未の桥推所有，如有转载，请注明来自原作者
