@@ -138,9 +138,9 @@ photofigcaption: false
 # copy settings
 # copyright: Add the copyright information after copied content (複製的內容後面加上版權信息)
 copy:
-  enable: true
+  enable: false
   copyright: 
-    enable: true
+    enable: false
     limit_count: 50
 
 # Post
