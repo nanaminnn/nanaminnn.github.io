@@ -236,7 +236,7 @@ aside:
       link: https://github.com/nanaminnn
   card_announcement:
     enable: true
-    content: 这是一个关于前乃木坂46成员橋本奈々未的博客(大概)
+    content: 这是一个关于前乃木坂46成员橋本奈々未的博客(bushi)
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
