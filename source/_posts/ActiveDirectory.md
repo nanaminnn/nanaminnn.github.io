@@ -1,5 +1,6 @@
 ---
 title: AD域相关
+layout: post
 date: 2023-08-18 16:51:40
 tags: #标签
 - AD域
