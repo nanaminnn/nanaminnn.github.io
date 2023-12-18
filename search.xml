@@ -3,9 +3,9 @@
   <entry>
     <title>AD域相关</title>
     <url>/ActiveDirectory/</url>
-    <content><![CDATA[<h1 id="什么是AD域？"><a href="#什么是AD域？" class="headerlink" title="　　什么是AD域？"></a>　　什么是AD域？</h1><p>AD服务器全称“Active Directory”活动目录，主要是面向Windows standard server、Windows enterprise server和Windows datacenter server的目录服务。<br>什么是目录?目录类似书的目录一样，是存储网络上信息的一种层次结构，目的是为了在Windows系统中快速的查找对象，如：共享资源、域、应用程序、服务、安全方针等等网络上的一切。<br>AD服务器有什么作用?</p>
+    <content><![CDATA[<h1 id="什么是AD域？"><a href="#什么是AD域？" class="headerlink" title="什么是AD域？"></a>什么是AD域？</h1><p>AD服务器全称“Active Directory”活动目录，主要是面向Windows standard server、Windows enterprise server和Windows datacenter server的目录服务。<br>什么是目录?目录类似书的目录一样，是存储网络上信息的一种层次结构，目的是为了在Windows系统中快速的查找对象，如：共享资源、域、应用程序、服务、安全方针等等网络上的一切。<br>AD服务器有什么作用?</p>
 <p>　　活动目录服务具有广泛的接受力，可以与操作系统结合，也可以与应用程序结合，不同的结合所产生的功能也不一样，就好比Microsoft exchange的Email目录服务，它能够使用户查找到其它用户的Email地址以便于发生邮件，Windows2000系统的目录服务，只能使用在域控制器上，它除了能够提供存储之外，还可以保护对象不被非授权用户进入，即使域控制器发生崩溃时，数据也不会丢失。</p>
-<h1 id="AD服务器的特点："><a href="#AD服务器的特点：" class="headerlink" title="　　AD服务器的特点："></a>　　AD服务器的特点：</h1><p>1、与操作系统或应用程序结合。</p>
+<h1 id="AD服务器的特点："><a href="#AD服务器的特点：" class="headerlink" title="AD服务器的特点："></a>AD服务器的特点：</h1><p>1、与操作系统或应用程序结合。</p>
 <p>2、方便快速查找信息。</p>
 <p>3、可扩展性：在Windows2000的活动目录，管理员可以增加新的对象类或者给现有的对象类增加新的属性，就好比管理员可以给每个用户对象增加一个购物授权属性，然后存储每个用户的购买权限做为这个账户的一部分。</p>
 <p>4、可升级性：例如活动目录中包含一个或多个域，而每个域又有多个域控制器，可以使得管理员升级目录来满足任何网络要求。多个域可以合并成一个域树，而多个域树又可以合并为一个域森林，在简单的目录结构中，一个单域网络不仅是一个域树，同时也是一个域森林。</p>
