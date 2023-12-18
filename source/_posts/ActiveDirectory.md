@@ -7,7 +7,7 @@ tags: #标签
 - AD域
 - ActiveDirectory
 ---
-　　什么是AD域？
+什么是AD域？
 ===
 AD服务器全称“Active Directory”活动目录，主要是面向Windows standard server、Windows enterprise server和Windows datacenter server的目录服务。
 什么是目录?目录类似书的目录一样，是存储网络上信息的一种层次结构，目的是为了在Windows系统中快速的查找对象，如：共享资源、域、应用程序、服务、安全方针等等网络上的一切。
@@ -15,7 +15,7 @@ AD服务器有什么作用?
 
 　　活动目录服务具有广泛的接受力，可以与操作系统结合，也可以与应用程序结合，不同的结合所产生的功能也不一样，就好比Microsoft exchange的Email目录服务，它能够使用户查找到其它用户的Email地址以便于发生邮件，Windows2000系统的目录服务，只能使用在域控制器上，它除了能够提供存储之外，还可以保护对象不被非授权用户进入，即使域控制器发生崩溃时，数据也不会丢失。
 
-　　AD服务器的特点：
+AD服务器的特点：
 ===
 1、与操作系统或应用程序结合。
 
